@@ -1,0 +1,17 @@
+text,detected_language,model_language_used,model_prediction,model_confidence,fact_check_status,final_verdict,timestamp
+The COVID-19 vaccine causes infertility.,en,en,Fake,0.993,Found,Fake,2025-06-23T14:50:01.715365
+කොළඹ කොටස් අද දැවැන්ත පල්ලමකට..,si,si,Real,0.567,Not found,Uncertain,2025-06-23T14:51:54.596329
+ஈரானில் இடம்பெற்ற B-2 விமானத் தாக்குதலை 48 மணி நேரத்திற்கு முன் அறிந்த இரகசியம்...,ta,ta,Fake,0.847,Not found,Fake,2025-06-23T14:53:24.227332
+Sri Lankan Navy arrests 7 Indian fishermen for alleged illegal fishing,en,en,Real,0.998,Not found,Real,2025-07-01T17:53:31.799249
+"Vice-President JD Vance casts the tie-breaking vote after more than 24 hours of intense debate, sending the bill back to the House.",en,en,Fake,0.972,Not found,Fake,2025-07-01T19:06:10.818291
+"US Senate Republicans narrowly pass Trump's 'big, beautiful' bill",en,en,Fake,0.997,Not found,Fake,2025-07-01T19:07:03.842967
+The exiled spiritual head of Tibetan Buddhism is due to release a video message in his birthday week.,en,en,Fake,0.995,Not found,Fake,2025-07-01T19:07:51.356353
+"රහුමාන්ලා, සජබය, විපක්ෂ නායක ඔක්කොම ඊයේ සම්පූර්ණයෙන්ම පච වුණා - බිමල්",si,si,Real,0.519,Not found,Uncertain,2025-07-01T19:11:33.607617
+කොරියානු E-8 රැකියා සඳහා අවබෝධතා ගිවිසුමක්,si,si,Real,0.516,Not found,Uncertain,2025-07-02T13:35:11.575791
+"රහුමාන්ලා, සජබය, විපක්ෂ නායක ඔක්කොම ඊයේ සම්පූර්ණයෙන්ම පච වුණා - බිමල්",si,si,Real,0.519,Not found,Uncertain,2025-07-02T13:37:56.144513
+IMF to provide Sri Lanka $350 million after fourth review of bailout,en,en,Real,0.999,Not found,Real,2025-07-02T14:07:48.845368
+IMF to provide Sri Lanka $350 million after fourth review of bailout,en,en,Real,0.999,Not found,Real,2025-07-02T14:43:38.359332
+"රහුමාන්ලා, සජබය, විපක්ෂ නායක ඔක්කොම ඊයේ සම්පූර්ණයෙන්ම පච වුණා - බිමල්",si,si,Real,0.519,Not found,Uncertain,2025-07-02T14:49:28.696373
+சர்ச்சைக்குரிய இலத்திரனியல் விசா ஒப்பந்தத்தில் சிக்கபோகும் ரணில் அரசின் முக்கிய புள்ளி,ta,ta,Fake,0.986,Not found,Fake,2025-07-02T14:57:18.020145
+சர்ச்சைக்குரிய இலத்திரனியல் விசா ஒப்பந்தத்தில் சிக்கபோகும் ரணில் அரசின் முக்கிய புள்ளி,ta,ta,Fake,0.986,Not found,Fake,2025-07-02T14:58:18.174014
+Press Briefing Transcript: IMF Executive Board Completes Fourth Review of Sri Lanka’s Extended Fund Facility,en,en,Fake,0.975,Not found,Fake,2025-07-04T09:08:35.146280
