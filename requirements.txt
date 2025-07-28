@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+transformers
+dotenv
+httpx
+langid
+torch
+langgraph
+langchain
+langdetect
+langchain_community
+google-generativeai
+langchain_google_genai
+langgraph_supervisor
+duckduckgo-search
+bs4
